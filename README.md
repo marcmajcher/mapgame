@@ -1,6 +1,8 @@
 # mapgame
 Web-based implementation of map game based on Jerry's Map
 
+![Map Game](./mapgame_splash.png)
+
 Birth Thread: http://story-games.com/forums/discussion/17331/
 
 G+ Group: https://plus.google.com/communities/116253504077815979543
